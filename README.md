@@ -132,19 +132,32 @@ Key endpoints: `POST /complaints`, `GET /feed`, `GET /hotspots`, `POST /complain
 
 ## 🖼️ Screenshots
 
-> [ADD SCREENSHOTS in `docs/screenshots/` and keep these lines. Suggested: report result card, feed, hotspot map, forecast, sources, authority portal.]
-
 | Report + AI analysis | Community feed |
 |---|---|
-| ![Report](docs/screenshots/report.png) | ![Feed](docs/screenshots/feed.png) |
+| !<img width="1521" height="843" alt="Screenshot 2026-11-21 154957" src="https://github.com/user-attachments/assets/1a7b49f2-f388-4ada-9ee7-51c0fe08f387" />
+
+ | !<img width="1547" height="844" alt="Screenshot 2026-11-21 155124" src="https://github.com/user-attachments/assets/117100fe-0ede-4510-be50-dde40891d582" />
+ |
 
 | Hotspot map | 48-hour forecast |
 |---|---|
-| ![Hotspots](docs/screenshots/hotspots.png) | ![Forecast](docs/screenshots/forecast.png) |
+| !<img width="1499" height="628" alt="Screenshot 2026-11-21 155204" src="https://github.com/user-attachments/assets/a5975632-d1b1-410a-828e-da2379797fcc" />
+
+ | !<img width="1505" height="870" alt="Screenshot 2026-11-21 155323" src="https://github.com/user-attachments/assets/24b853e4-675b-4ed2-b292-1226c15e644b" />
+ |
 
 | Source identification | Authority portal |
 |---|---|
-| ![Sources](docs/screenshots/sources.png) | ![Authority](docs/screenshots/authority.png) |
+| !<img width="1668" height="639" alt="Screenshot 2026-11-21 155341" src="https://github.com/user-attachments/assets/d2f56034-9117-464b-b6fc-868627b50594" />
+
+| !<img width="1526" height="774" alt="Screenshot 2026-11-21 155409" src="https://github.com/user-attachments/assets/98e7e5f4-ca38-42d2-b577-9101c141f521" />
+ |
+ 
+| ! <img width="1514" height="842" alt="Screenshot 2026-11-21 155459" src="https://github.com/user-attachments/assets/313bcead-8e5d-469c-9abb-e7358953c1e9" />
+|
+
+| !<img width="1528" height="797" alt="Screenshot 2026-11-21 155553" src="https://github.com/user-attachments/assets/136efb2c-0f7f-4bd3-a2b0-7a9b94aa94dc" />
+ |
 
 ---
 
