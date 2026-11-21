@@ -1,0 +1,6 @@
+,garbage_burning,construction_dust,industrial_smoke,vehicle_emission,stubble_burning
+garbage_burning,85,3,2,0,0
+construction_dust,4,100,0,0,4
+industrial_smoke,1,1,52,2,1
+vehicle_emission,1,1,2,84,0
+stubble_burning,4,2,0,2,40

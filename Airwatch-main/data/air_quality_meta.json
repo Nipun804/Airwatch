@@ -1,0 +1,6 @@
+{
+  "source": "open-meteo",
+  "t0": "2026-11-21 15:00:00",
+  "n_locations": 20,
+  "label": "Open-Meteo air quality (CAMS atmospheric-model estimates) + weather; hourly; not ground-monitor readings"
+}

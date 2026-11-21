@@ -1,0 +1,72 @@
+{
+  "data_source": "open-meteo",
+  "data_label": "Open-Meteo air quality (CAMS atmospheric-model estimates) + weather; hourly; not ground-monitor readings",
+  "t0": "2026-11-21 15:00:00",
+  "trained_at": "2026-11-21T10:05:46+00:00",
+  "n_train_rows": 123000,
+  "n_test_rows": 381120,
+  "n_locations": 20,
+  "mean_pm25_test": 117.92587085432409,
+  "overall": {
+    "rmse": 70.68142654382285,
+    "mae": 54.90709380247052,
+    "bias": -51.16898583195597
+  },
+  "persistence": {
+    "rmse": 58.928704154299844,
+    "mae": 44.77312053946263,
+    "bias": -0.7453292926112511
+  },
+  "seasonal_naive": {
+    "rmse": 52.19263353987884,
+    "mae": 38.965765900503776,
+    "bias": -0.0046754303106630755
+  },
+  "band_coverage_80": 0.5986119857262804,
+  "band_factor_k": 1.9,
+  "by_horizon": {
+    "1": {
+      "model_rmse": 39.81873263323731,
+      "persistence_rmse": 13.45195920857324,
+      "seasonal_naive_rmse": 44.330298089629004
+    },
+    "6": {
+      "model_rmse": 58.26156957315166,
+      "persistence_rmse": 50.99853951580959,
+      "seasonal_naive_rmse": 44.54452993752615
+    },
+    "12": {
+      "model_rmse": 64.50757409825063,
+      "persistence_rmse": 55.968603829375375,
+      "seasonal_naive_rmse": 45.26770147941266
+    },
+    "24": {
+      "model_rmse": 69.14142912656497,
+      "persistence_rmse": 46.05449747891365,
+      "seasonal_naive_rmse": 46.05449747891365
+    },
+    "36": {
+      "model_rmse": 80.3296363066441,
+      "persistence_rmse": 67.47517977293894,
+      "seasonal_naive_rmse": 58.700252060272675
+    },
+    "48": {
+      "model_rmse": 83.15578525660234,
+      "persistence_rmse": 58.093346970342694,
+      "seasonal_naive_rmse": 58.093346970342694
+    }
+  },
+  "importance": {
+    "Recent PM2.5 history": 0.8066,
+    "7-day local baseline": 0.0982,
+    "Time of day": 0.055,
+    "Humidity": 0.0229,
+    "Wind speed": 0.0126,
+    "Forecast horizon": 0.0044,
+    "Rain": 0.0003,
+    "Wind direction": 0.0,
+    "Temperature": 0.0,
+    "Pressure": 0.0,
+    "Area type": 0.0
+  }
+}

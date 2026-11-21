@@ -1,0 +1,81 @@
+name,type,lat,lon
+Sector 62 Noida School 1 (synthetic),school,28.634382933396225,77.36302341587063
+Sector 62 Noida School 2 (synthetic),school,28.636663975563547,77.37095969005824
+Sector 62 Noida School 3 (synthetic),school,28.61606334929629,77.3795027907834
+Sector 62 Noida Hospital 1 (synthetic),hospital,28.634037541375953,77.37368288664564
+Sector 18 Noida School 1 (synthetic),school,28.560777909612167,77.32447753910242
+Sector 18 Noida School 2 (synthetic),school,28.567318092640114,77.33909574302957
+Sector 18 Noida School 3 (synthetic),school,28.574677069351797,77.33590428750637
+Sector 18 Noida Hospital 1 (synthetic),hospital,28.56927505027382,77.31763002659247
+Indirapuram School 1 (synthetic),school,28.647471023724826,77.35560567824311
+Indirapuram School 2 (synthetic),school,28.65482944229229,77.37304315702639
+Indirapuram School 3 (synthetic),school,28.652955293031408,77.36453277607285
+Indirapuram Hospital 1 (synthetic),hospital,28.658684998860807,77.38107198327332
+Vaishali School 1 (synthetic),school,28.652502250190633,77.3306230393977
+Vaishali School 2 (synthetic),school,28.644103153172665,77.32599123652822
+Vaishali School 3 (synthetic),school,28.635683331622374,77.34562102292264
+Vaishali Hospital 1 (synthetic),hospital,28.651596177396005,77.35435617563509
+Dwarka School 1 (synthetic),school,28.58740610918446,77.0420241114889
+Dwarka School 2 (synthetic),school,28.591279549351665,77.03646916431951
+Dwarka School 3 (synthetic),school,28.582126630578568,77.04525432850477
+Dwarka Hospital 1 (synthetic),hospital,28.584740388494005,77.05121198068815
+Rohini School 1 (synthetic),school,28.74780628599189,77.06672600628416
+Rohini School 2 (synthetic),school,28.75489701137268,77.0507324446655
+Rohini School 3 (synthetic),school,28.75845418077781,77.06586797864085
+Rohini Hospital 1 (synthetic),hospital,28.74646761711364,77.0499935377039
+Lajpat Nagar School 1 (synthetic),school,28.572618132518187,77.23194574288792
+Lajpat Nagar School 2 (synthetic),school,28.559612725542806,77.22788332636449
+Lajpat Nagar School 3 (synthetic),school,28.575432421240624,77.24805847693877
+Lajpat Nagar Hospital 1 (synthetic),hospital,28.57322907057024,77.25161421868728
+Okhla School 1 (synthetic),school,28.534392807461508,77.27710869051732
+Okhla School 2 (synthetic),school,28.525792768544584,77.26317540533914
+Okhla School 3 (synthetic),school,28.540038347874336,77.27411335327855
+Okhla Hospital 1 (synthetic),hospital,28.53725806970395,77.28312904940026
+Anand Vihar School 1 (synthetic),school,28.650530569169977,77.31684533306306
+Anand Vihar School 2 (synthetic),school,28.648495593624112,77.30917963803803
+Anand Vihar School 3 (synthetic),school,28.634255852530575,77.31325669771341
+Anand Vihar Hospital 1 (synthetic),hospital,28.6392082466624,77.31239106886315
+Sector 29 Gurugram School 1 (synthetic),school,28.47852397789979,77.0588435255759
+Sector 29 Gurugram School 2 (synthetic),school,28.457096552506894,77.06029800327862
+Sector 29 Gurugram School 3 (synthetic),school,28.463437488980418,77.07196378771387
+Sector 29 Gurugram Hospital 1 (synthetic),hospital,28.47053697859346,77.07570331506783
+Faridabad Sector 15 School 1 (synthetic),school,28.413328140684353,77.31493178208981
+Faridabad Sector 15 School 2 (synthetic),school,28.417362640621615,77.30759636565557
+Faridabad Sector 15 School 3 (synthetic),school,28.396037407648233,77.30523945469479
+Faridabad Sector 15 Hospital 1 (synthetic),hospital,28.414892436685136,77.31663195443865
+Raj Nagar Ghaziabad School 1 (synthetic),school,28.66007149961463,77.45383209010734
+Raj Nagar Ghaziabad School 2 (synthetic),school,28.659830042293745,77.45982995026154
+Raj Nagar Ghaziabad School 3 (synthetic),school,28.66774894741935,77.45014558517661
+Raj Nagar Ghaziabad Hospital 1 (synthetic),hospital,28.66385088274743,77.45780160989983
+Najafgarh School 1 (synthetic),school,28.60527594171452,76.97284199545686
+Najafgarh School 2 (synthetic),school,28.59870551299283,76.999678978034
+Najafgarh School 3 (synthetic),school,28.62001097801045,76.99163045546852
+Najafgarh Hospital 1 (synthetic),hospital,28.60269035109934,76.99990241434209
+Mundka School 1 (synthetic),school,28.68991215156214,77.03766258841691
+Mundka School 2 (synthetic),school,28.68103532614473,77.02400355291411
+Mundka School 3 (synthetic),school,28.671523004729256,77.04336742922412
+Mundka Hospital 1 (synthetic),hospital,28.68120820040874,77.02185698432996
+Bawana School 1 (synthetic),school,28.793770660011244,77.03543624097172
+Bawana School 2 (synthetic),school,28.790289241365592,77.04396696613738
+Bawana School 3 (synthetic),school,28.80596692947813,77.03974914862833
+Bawana Hospital 1 (synthetic),hospital,28.79716995256311,77.03691513129803
+Narela School 1 (synthetic),school,28.855266384358053,77.09661062636323
+Narela School 2 (synthetic),school,28.84180105069547,77.08940948004751
+Narela School 3 (synthetic),school,28.84064680669768,77.09181510366652
+Narela Hospital 1 (synthetic),hospital,28.848414872772175,77.08106237359206
+Pari Chowk Greater Noida School 1 (synthetic),school,28.463711973618107,77.50568700995782
+Pari Chowk Greater Noida School 2 (synthetic),school,28.465522699475482,77.51603334551092
+Pari Chowk Greater Noida School 3 (synthetic),school,28.47658454382951,77.49830532981296
+Pari Chowk Greater Noida Hospital 1 (synthetic),hospital,28.476850112059324,77.48837010657343
+Mayur Vihar School 1 (synthetic),school,28.621357865969497,77.2964567645647
+Mayur Vihar School 2 (synthetic),school,28.616619526426078,77.28419096756829
+Mayur Vihar School 3 (synthetic),school,28.60864045088497,77.29671473048462
+Mayur Vihar Hospital 1 (synthetic),hospital,28.620799131916325,77.29920185239527
+Punjabi Bagh School 1 (synthetic),school,28.66758555698141,77.12414275464255
+Punjabi Bagh School 2 (synthetic),school,28.663760896442934,77.13193494422333
+Punjabi Bagh School 3 (synthetic),school,28.666653704463844,77.11660651447927
+Punjabi Bagh Hospital 1 (synthetic),hospital,28.677093350454392,77.14346791294281
+Sarita Vihar School 1 (synthetic),school,28.519304952093027,77.29165749917583
+Sarita Vihar School 2 (synthetic),school,28.51845137642298,77.29528327511105
+Sarita Vihar School 3 (synthetic),school,28.523104395899363,77.29489011369617
+Sarita Vihar Hospital 1 (synthetic),hospital,28.5351173539603,77.2982404658674
